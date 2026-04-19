@@ -1,0 +1,2 @@
+# SIKAD-SMKIT-IBKA
+Sistem Informasi SMKIT IBKA
